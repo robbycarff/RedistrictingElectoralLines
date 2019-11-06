@@ -1,0 +1,4 @@
+# ignore these files when pushed to GitHub
+
+# MAC
+.DS_Store
